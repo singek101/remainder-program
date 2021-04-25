@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\week2 lab assignment\bin\Debug\netcoreapp3.1\week2 lab assignment.exe
+C:\Users\USER\Desktop\week2 lab assignment\bin\Debug\netcoreapp3.1\week2 lab assignment.deps.json
+C:\Users\USER\Desktop\week2 lab assignment\bin\Debug\netcoreapp3.1\week2 lab assignment.runtimeconfig.json
+C:\Users\USER\Desktop\week2 lab assignment\bin\Debug\netcoreapp3.1\week2 lab assignment.runtimeconfig.dev.json
+C:\Users\USER\Desktop\week2 lab assignment\bin\Debug\netcoreapp3.1\week2 lab assignment.dll
+C:\Users\USER\Desktop\week2 lab assignment\bin\Debug\netcoreapp3.1\week2 lab assignment.pdb
+C:\Users\USER\Desktop\week2 lab assignment\obj\Debug\netcoreapp3.1\week2 lab assignment.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\week2 lab assignment\obj\Debug\netcoreapp3.1\week2 lab assignment.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\week2 lab assignment\obj\Debug\netcoreapp3.1\week2 lab assignment.AssemblyInfo.cs
+C:\Users\USER\Desktop\week2 lab assignment\obj\Debug\netcoreapp3.1\week2 lab assignment.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\week2 lab assignment\obj\Debug\netcoreapp3.1\week2 lab assignment.dll
+C:\Users\USER\Desktop\week2 lab assignment\obj\Debug\netcoreapp3.1\week2 lab assignment.pdb
+C:\Users\USER\Desktop\week2 lab assignment\obj\Debug\netcoreapp3.1\week2 lab assignment.genruntimeconfig.cache
